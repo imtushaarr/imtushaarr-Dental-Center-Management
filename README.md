@@ -48,11 +48,11 @@ A **React-based frontend-only** dashboard to simulate dental center operations l
 ## 🔐 Demo Login Credentials
 
 ### 👨‍⚕️ Doctor/Admin
-- **Username**: `admin`
+- **Username**: `admin@entnt.in`
 - **Password**: `admin123`
 
 ### 👨‍⚕️ Patient
-- **Username**: `patient`
+- **Username**: `john@entnt.in`
 - **Password**: `patient123`
 
 These users are hardcoded/simulated in localStorage for demo purposes.
